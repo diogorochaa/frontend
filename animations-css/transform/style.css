@@ -1,0 +1,12 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.box {
+  outline: 5px solid red;
+}
+
+img {
+  transform: translateX(100px) scale(1.5) rotate(-15deg);
+}

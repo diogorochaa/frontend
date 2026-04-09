@@ -1,0 +1,31 @@
+.label-container {
+  @apply flex grow-0 justify-start flex-col;
+}
+.label {
+  @apply text-sm font-medium leading-tight text-gray-500;
+}
+
+.-input {
+  @apply border border-gray-300;
+}
+.-input--error {
+  @apply border border-red-500;
+}
+
+.-input--success {
+  @apply border border-green-500;
+}
+
+.-input--default {
+  @apply border border-gray-300;
+}
+
+.-input--small {
+  @apply px-2 py-1 text-sm w-16;
+}
+.-input--medium {
+  @apply px-2 py-1 text-base w-32;
+}
+.-input--large {
+  @apply px-2 py-1 text-lg w-64;
+}

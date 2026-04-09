@@ -1,0 +1,4 @@
+{
+  "extends": "@diroc-ui/ts-config/base.json",
+  "include": ["src"]
+}

@@ -1,0 +1,6 @@
+.container {
+  @apply flex flex-col min-h-screen;
+}
+.body {
+  @apply flex flex-1;
+}

@@ -1,0 +1,46 @@
+.container {
+  @apply flex-1;
+}
+.container-video {
+  @apply bg-black flex justify-center;
+}
+.video {
+  @apply h-full w-full max-w-[1100px] max-h-[60vh] aspect-video;
+}
+
+.container-text {
+  @apply p-8 max-w-[1100px] mx-auto;
+}
+.body {
+  @apply flex items-start gap-16;
+}
+.div-text {
+  @apply flex-1;
+}
+.title {
+  @apply text-2xl font-bold;
+}
+.paragraph {
+  @apply mt-4 text-gray-200 leading-relaxed;
+}
+.container-buttons {
+  @apply flex flex-col gap-4;
+}
+.container-avatar {
+  @apply flex items-center gap-4 mt-6;
+}
+.image {
+  @apply h-16 w-16 rounded-full border-2 border-blue-500;
+}
+.text-body {
+  @apply leading-relaxed;
+}
+.teacher {
+  @apply font-bold text-2xl block;
+}
+.bio {
+  @apply text-gray-200 text-sm block;
+}
+.container-cards {
+  @apply gap-8 mt-20 grid grid-cols-2;
+}

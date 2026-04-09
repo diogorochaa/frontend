@@ -1,0 +1,22 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "farther"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "zero",
+    "type": "Text"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Dolor nulla magna aliquip voluptate labore culpa sunt esse exercitation ea."
+        }
+      }
+    ]
+  }
+}

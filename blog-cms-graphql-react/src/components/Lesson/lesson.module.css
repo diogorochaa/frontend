@@ -1,0 +1,18 @@
+.date {
+  @apply text-gray-300;
+}
+.container {
+  @apply rounded border border-gray-500 p-4 mt-2;
+}
+.header {
+  @apply flex items-center justify-between;
+}
+.icon-check {
+  @apply text-sm text-blue-500 font-medium flex items-center gap-2;
+}
+.icon-lock {
+  @apply text-sm text-orange-500 font-medium flex items-center gap-2;
+}
+.type {
+  @apply text-xs rounded py-[0.125rem] px-2 text-white border border-green-300;
+}

@@ -1,0 +1,18 @@
+.-card--container {
+  @apply bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors;
+}
+.-card--content {
+  @apply bg-green-700 h-full p-6 flex items-center;
+}
+.-card--text-container {
+  @apply py-6 leading-relaxed;
+}
+.-card--title {
+  @apply text-2xl text-white;
+}
+.-card--description {
+  @apply text-gray-200 text-sm mt-2;
+}
+.-card--icon {
+  @apply h-full p-6 flex items-center;
+}

@@ -1,0 +1,3 @@
+{
+  "extends": "@diroc-ui/eslint-config"
+}

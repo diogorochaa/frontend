@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<a
+  className="-card--container"
+>
+  <div
+    className="-card--content"
+  />
+  <div
+    className="-card--text-container"
+  >
+    <strong
+      className="-card--title"
+    >
+      Card
+    </strong>
+    <p
+      className="-card--description"
+    />
+  </div>
+  <div
+    className="-card--icon"
+  />
+</a>
+`;

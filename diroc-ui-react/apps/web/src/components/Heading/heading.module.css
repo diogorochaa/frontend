@@ -1,0 +1,17 @@
+.sm {
+  @apply text-2xl text-center font-bold md:text-4xl;
+}
+
+.md {
+  @apply text-4xl text-center font-bold md:text-5xl;
+}
+
+.lg {
+  @apply text-6xl text-center font-bold md:text-7xl;
+}
+
+.textGradient {
+  background: linear-gradient(90deg, #22c55e 0%, #166534 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
